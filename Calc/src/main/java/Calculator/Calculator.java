@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  * @author ehn19
  */
 public class Calculator {
-
+    
     static ArrayStack<Integer> nums = new ArrayStack();
 
     public static void main(String[] args) {
